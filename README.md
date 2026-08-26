@@ -71,8 +71,8 @@ What makes me different:
 | 🔄 | **DevSecOps Engineer** | Developer Academy | Jan 2027 |
 | 🔄 | **Data Protection Officer (GDPR)** | Developer Academy | Jan 2027 |
 | 🔄 | **Cybersecurity IEC 62443-4** *(TÜV)* | TÜV | Jan 2027 |
-| ✅ | **Electrical Engineer** | — | — |
-| ✅ | **Technical Manager** *(10 years)* | — | — |
+| ✅ | **Electrical Engineer** | 2008 | 2015 |
+| ✅ | **Technical Manager** *(10 years)* | 2015 | 2025 |
 
 ---
 
